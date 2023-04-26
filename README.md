@@ -1,6 +1,6 @@
 # React Nice Resume :page_with_curl:
 
-### [LIVE DEMO](https://master.d2iyo8p77b4sz4.amplifyapp.com/)
+### [LIVE DEMO](https://master.d3ot2k8dxtwove.amplifyapp.com/)
 
 ![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
 
