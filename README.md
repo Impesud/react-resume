@@ -2,7 +2,7 @@
 
 ### [LIVE DEMO](https://master.d3ot2k8dxtwove.amplifyapp.com/)
 
-Resume built in React 17 + build & deployed in AWS Amplify.
+Resume made in React 17 + built & deployed in AWS Amplify.
 
 <div align="center">
 
