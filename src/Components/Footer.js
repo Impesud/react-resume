@@ -23,11 +23,11 @@ class Footer extends Component {
               <ul className="social-links">{networks}</ul>
 
               <ul className="copyright">
-                <li>&copy; Copyright 2021 Nordic Giant</li>
+                <li>&copy; Copyright 2023 Resume Project</li>
                 <li>
-                  Design by{" "}
-                  <a title="Styleshout" href="http://www.styleshout.com/">
-                    Styleshout
+                  New Project Version Develop and Maintained By{" "}
+                  <a title="Styleshout" href="https://github.com/Impesud">
+                    Impesud
                   </a>
                 </li>
               </ul>

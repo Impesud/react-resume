@@ -122,26 +122,18 @@ class Contact extends Component {
                 <ul id="twitter">
                   <li>
                     <span>
-                      This is Photoshop's version of Lorem Ipsum. Proin gravida
-                      nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                      quis bibendum auctor, nisi elit consequat ipsum
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      React based template for software developer-focused resume websites, created by Tim Baker. 
+                      New version updated and maintained by @Impesud
+                      <a href="https://twitter.com/Impesud/status/1650937757085081606?s=20">React based template</a>
                     </span>
-                    <b>
-                      <a href="./">2 Days Ago</a>
-                    </b>
                   </li>
                   <li>
                     <span>
-                      Sed ut perspiciatis unde omnis iste natus error sit
-                      voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      A signal is a way to store the state of your application, similar to useState in React. 
+                      @mhevery writes about some of the key differences between the two approaches, and shares 
+                      why he believes Signals have the edge.
+                      <a href="https://twitter.com/Impesud/status/1649139629805694986?s=20">Usesignal</a>
                     </span>
-                    <b>
-                      <a href="./">3 Days Ago</a>
-                    </b>
                   </li>
                 </ul>
               </div>
