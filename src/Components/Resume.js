@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Slide from "react-reveal";
 
 class Resume extends Component {
   getRandomColor() {
@@ -56,7 +55,6 @@ class Resume extends Component {
 
     return (
       <section id="resume">
-        <Slide left duration={1300}>
           <div className="row education">
             <div className="three columns header-col">
               <h1>
@@ -70,9 +68,7 @@ class Resume extends Component {
               </div>
             </div>
           </div>
-        </Slide>
 
-        <Slide left duration={1300}>
           <div className="row work">
             <div className="three columns header-col">
               <h1>
@@ -82,9 +78,7 @@ class Resume extends Component {
 
             <div className="nine columns main-col">{work}</div>
           </div>
-        </Slide>
 
-        <Slide left duration={1300}>
           <div className="row skill">
             <div className="three columns header-col">
               <h1>
@@ -100,7 +94,6 @@ class Resume extends Component {
               </div>
             </div>
           </div>
-        </Slide>
       </section>
     );
   }
